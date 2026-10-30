@@ -11,6 +11,8 @@ Clean the data and handle missing values.
 Remove duplicate records.
 Analyze sales by category and region.
 Identify monthly sales trends.
+Understand customer segment performance.
+Analyze the relationship between discounts and profits.
 Present findings using chart
 
 🛠️ Tools & Technologies
@@ -36,6 +38,8 @@ Present findings using chart
 - Sales by Region
 - Sales by Sub-Category
 - Monthly Sales Trend
+- Sales by customer segement
+- Discount vs Profit Anaiysis
 
 💡 Key Business Insights
 
@@ -43,7 +47,9 @@ Present findings using chart
 - Office Supplies generated the lowest sales among the three categories.
 - Sales performance varies across different regions.
 - Sales contributions differ among product sub-categories.
-- Monthly sales trends help identify changes in business performance.
+- Monthly sales trends help identify changes in business performance. 
+- Customer segments contribute differently to sales and profit.
+- Discounts and profit are explored using a scatter plot.
 
 📁 Project Files
 
